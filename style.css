@@ -1,0 +1,36 @@
+
+@font-face{
+  font-family: Creattion;
+  src: url(Creattion.otf);
+}
+
+.genreTag {
+  padding:4px 8px;
+  border:1px solid black;
+  margin:4px;
+}
+
+.songContainer{
+  padding:16px 24px;
+  border:1px solid black;
+  margin:8px;
+}
+body{
+  font-family:futura;
+}
+
+h1{
+font-family:Creattion;
+font-size:70px;
+}
+
+button {
+  background-color:#FCE87F; 
+  border:none;
+  font-family:futura;
+  padding:15px 32px;
+  text-align:center;
+  text-decoration:none;
+  display:inline-block;
+  font-size:16px;
+}
